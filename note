@@ -1,0 +1,15 @@
+Network
+
+3 adresse mac carte wifi en1 ?
+7 interoger adresse 8.8.
+9 il bloque recherche par adresse ip i?
+11 ==> trouver grace a quest 10
+14 ?
+15 ?
+
+Systeme
+
+7 ?
+17 ssh vagrant@10.1.0.127 -p 80 (possible sur une vrai vm ==> permet de se co sur une vmi)
+19 ? daemon debian ==> google it
+23 ?
